@@ -1,6 +1,4 @@
-# MaRS-club-task1
-
-Q1. Blinking LED with different time interval
+# Q1. Blinking LED with different time interval
 
   TinkerCad link  : https://www.tinkercad.com/things/6W6wCIKbtb8-blinking-led-with-differrent-time-interval?sharecode=BYITj3nd7eQaZ7cMjh2-kPKw1Er16ZK193HQKWUEzYg
 
@@ -10,7 +8,7 @@ Q1. Blinking LED with different time interval
 
   
 
-Q2. Controlling colour of RGB LED and blinking speed of an-other LED with potentiometer
+# Q2. Controlling colour of RGB LED and blinking speed of an-other LED with potentiometer
 
   TinkerCad link  : https://www.tinkercad.com/things/9TBNFBiQCgx-potentiometer-with-rgb?sharecode=CX5JBEsCojFCFtb9vrt36Pw_rjtAK24J0vcRRYvJ34A
   
@@ -20,7 +18,7 @@ Q2. Controlling colour of RGB LED and blinking speed of an-other LED with potent
 
   
 
-Q3. Build a reaction time tester
+# Q3. Build a reaction time tester
 
   TinkerCad link  : https://www.tinkercad.com/things/9aUQ1bv44pN-reaction-test?sharecode=EsnKjZGXMjfH07maxiAq_E1agJqKJzCdjVzf49fVIio
   
@@ -30,7 +28,7 @@ Q3. Build a reaction time tester
 
   
 
-Smart Distance Alert System
+# Smart Distance Alert System
 
   TinkerCad link  : https://www.tinkercad.com/things/hEUBv2CXmL0-ultrasonic-sensor?sharecode=VLUq3vQztXFXm6fGUv3LiNcLhVaDHD76ZMGC1fiuHyU
   
@@ -40,7 +38,7 @@ Smart Distance Alert System
 
 
 
-Morse Code Transmitter
+# Morse Code Transmitter
 
   TinkerCad link  : https://www.tinkercad.com/things/2aCs7ZxBcAU-morse-code?sharecode=cOIXapDNQbUyT71iHfOZ5ZThzhnxOuGcXjvEm7tXcWk
   
@@ -50,7 +48,7 @@ Morse Code Transmitter
 
 
 
-Automatic Night Lamp
+# Automatic Night Lamp
 
   TinkerCad link  : https://www.tinkercad.com/things/gBlKGLoeqUU-ldr?sharecode=2-SeHocCbHbM1zpYI6mpNMc-OrEBJVokcFAnMlQUfe8
   
@@ -60,10 +58,11 @@ Automatic Night Lamp
 
 
 
-Bright Sense(Own project)
+# Bright Sense(Own project)
 
   TinkerCad link  : https://www.tinkercad.com/things/hv3WaEPT5yd-smart-lamp?sharecode=3gf8jKrK8GUCgdvfaQ2ysmm0SYg4nuHhwFREmRyNRz4
   
   Demo video link : https://drive.google.com/file/d/1Jv1ad73JupYFXsC8JXvAQECjxTxOePad/view?usp=sharing
   
   Description     : This project uses an LDR (photoresistor) to detect the amount of light in the surroundings. The resistance of the LDR changes depending on light intensity, which is read by the Arduino through analog pin A0. When the environment becomes dark which is controlled by sliding the bar of ldr, the led turns on  automatically. When there is enough light, the led turns off. 
+
