@@ -66,3 +66,4 @@
   
   Description     : In this project, a potentiometer is used as a regulator through which the brightness of the bulb can be controlled manually. And the brightness percentage of the bulb will be shown on the LCD screen. After crossing each 10 percent of brightness like 10, 20, 30 ... the user will be notified by a buzzer sound. In the code, I have used LiquidCrystal module and some of its functions like begin, print, clear, setCursor for controlling lcd. I used some functions like tone(), noTone() for controlling buzzer. I used map function to control brightness of the lamp by getting input from potentiometer. This project can be used as a study lamp, studio light etc.
 
+# The code for each project is uploaded in the name of the title of the project outside readme.md file
